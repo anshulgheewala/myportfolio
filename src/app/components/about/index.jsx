@@ -181,7 +181,7 @@ function About() {
                 <span className="text-blue-600 text-3xl ">About</span>
                 <h1 className={styles.aboutmetext}>About Me?</h1>
                 <p className="mt-6 text-xl">
-                Welcome to my portfolio website! I`&apos;`m Anshul Gheewala, a passionate Developer,Student And Active Learner. I strongly believe in personal growth that`&apos;` why I constantly seek out new challenges and opportunities to expand my skill set and increase my boundries.Throughout the time i have been able to gain a valuable experience by creating projects and participating in Internships and This exposure has helped me develop a keen understanding of Web,Android and Next.js technologies.Thank you for visiting my portfolio website. I invite you to explore my work and get in touch with any inquiries or collaboration opportunities. I look forward to connect with you and your visions!
+                Welcome to my portfolio website! I&apos;m Anshul Gheewala, a passionate Developer,Student And Active Learner. I strongly believe in personal growth that&apos;s why I constantly seek out new challenges and opportunities to expand my skill set and increase my boundries.Throughout the time i have been able to gain a valuable experience by creating projects and participating in Internships and This exposure has helped me develop a keen understanding of Web,Android and Next.js technologies.Thank you for visiting my portfolio website. I invite you to explore my work and get in touch with any inquiries or collaboration opportunities. I look forward to connect with you and your visions!
             </p>
             </div>
 

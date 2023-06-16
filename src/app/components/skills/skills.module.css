@@ -31,7 +31,7 @@
 
 @media (max-width:376px) {
     .capable{
-        @apply text-black text-sm mt-6 h-fit;
+        @apply text-black text-2xl mt-6 h-fit;
     }
 }
 
