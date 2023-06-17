@@ -30,7 +30,7 @@ function Imageblock() {
                             strings: [
                                 "Android Developer.",
                                 "Web Developer.",
-                                "Nextjs Developer.",
+                                "Next.js Developer.",
                             ],
                             autoStart: true,
                             loop: true,
