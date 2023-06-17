@@ -11,7 +11,7 @@ function Compo() {
             id: 1,
             src:"/images/newsapp.jpg",
             heading:"E Akhbaar",
-            info: "An Android news app that shows trending news by some famous channels",
+            info: "An Android news app that gives trending news by trusted sources",
             link:"https://play.google.com/store/apps/details?id=com.ag.e_akhbaar"
         },
         {
