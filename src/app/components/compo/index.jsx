@@ -45,7 +45,7 @@ function Compo() {
 
             {details.map((x)=>
 
-                <Link href={x.link} className="flex justify-center items-center h-fit w-fit" scroll={false} key={x.id}>
+               <a href={x.link} className="flex justify-center items-center h-fit w-fit" scroll={false} key={x.id}>
 
 <div className={styles.divbox}  id="group">
                 <div className="w-full rounded-full">
@@ -57,7 +57,7 @@ function Compo() {
                     <p className={styles.info}>{x.info}</p>
                 </div>
             </div>
-            </Link>
+            </a>
              )}
                
 
