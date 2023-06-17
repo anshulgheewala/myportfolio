@@ -49,7 +49,7 @@ function Imageblock() {
 
        <div className={styles.buttondiv}>
         <button className='bg-transparent border-2 text-white p-4 rounded-lg font-semibold  hover:translate-x-0 hover:-translate-y-2 hover:ease-in-out duration-300 w-40' onClick={Alert}>Download CV</button>
-         <Link href={"https://github.com/anshulgheewala"} className='bg-blue-600  text-white font-semibold rounded-lg hover:translate-x-0 hover:-translate-y-2 hover:ease-in-out duration-300 w-40 h-fit' ><button className='p-5 h-auto w-full'> Visit GitHub </button></Link>
+         <Link href={"https://github.com/anshulgheewala"} className='bg-blue-600  text-white font-semibold rounded-lg hover:translate-x-0 hover:-translate-y-2 hover:ease-in-out duration-300 w-40 h-fit' scroll={false} ><button className='p-5 h-auto w-full'> Visit GitHub </button></Link>
        </div>
 
 
@@ -73,4 +73,5 @@ function Imageblock() {
 function Alert() {
     alert("Sorry Currently UnAvailable");
   }
+
 export default Imageblock;

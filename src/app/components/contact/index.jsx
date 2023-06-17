@@ -30,6 +30,15 @@ function Contact () {
              <Link href={"https://www.linkedin.com/in/anshul-gheewala-66b261235"}>
              <Image src={"/images/linkedin.svg"} height={40} width={40} className={styles.image}></Image>
              </Link>
+
+             {/* <a href="https://instagram.com/anshulgheewala75?igshid=ZDc4ODBmNjlmNQ==">
+                <Image src={"/images/instagram.svg"} height={40} width={40} className={styles.image} ></Image>
+             </a>
+
+
+             <a href="https://www.linkedin.com/in/anshul-gheewala-66b261235">
+             <Image src={"/images/linkedin.svg"} height={40} width={40} className={styles.image}></Image>
+             </a> */}
                 
              </div>
 

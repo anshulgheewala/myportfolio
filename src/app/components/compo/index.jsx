@@ -45,7 +45,7 @@ function Compo() {
 
             {details.map((x)=>
 
-                <Link href={x.link} className="flex justify-center items-center h-fit w-fit" key={x.id}>
+                <Link href={x.link} className="flex justify-center items-center h-fit w-fit" scroll={false} key={x.id}>
 
 <div className={styles.divbox}  id="group">
                 <div className="w-full rounded-full">

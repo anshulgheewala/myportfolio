@@ -23,7 +23,6 @@ export default function Home() {
 
     <div>
     <Head>
-     
       <meta name='description' content='Anshul Gheewala portfolio'></meta>
       <meta name='keyword' content='Portfolio website Anshul portfolio website'></meta>
       <meta name='author' content='Anshul Gheewala'></meta>
