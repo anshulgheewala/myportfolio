@@ -22,14 +22,14 @@ function Contact () {
              </div>
              <div className={styles.img_container}>
 
-             <Link href="https://instagram.com/anshulgheewala75?igshid=ZDc4ODBmNjlmNQ==">
-                <Image src={"/images/instagram.svg"} height={40} width={40} className={styles.image}></Image>
-             </Link>
+             <a href="https://instagram.com/anshulgheewala75?igshid=ZDc4ODBmNjlmNQ==">
+                <Image src={"/images/instagram.svg"} height={40} width={40} className={styles.image} ></Image>
+             </a>
 
 
-             <Link href={"https://www.linkedin.com/in/anshul-gheewala-66b261235"}>
+             <a href="https://www.linkedin.com/in/anshul-gheewala-66b261235">
              <Image src={"/images/linkedin.svg"} height={40} width={40} className={styles.image}></Image>
-             </Link>
+             </a>
 
              {/* <a href="https://instagram.com/anshulgheewala75?igshid=ZDc4ODBmNjlmNQ==">
                 <Image src={"/images/instagram.svg"} height={40} width={40} className={styles.image} ></Image>
